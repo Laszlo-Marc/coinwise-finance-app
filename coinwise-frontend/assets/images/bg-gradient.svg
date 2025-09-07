@@ -1,0 +1,11 @@
+
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+            <!-- https://grabient.com/HQFgrA7ANKBsCcMBMBGWMTyRsJlL2AA5YwYJ4BmGI3GWEQsJaS0ABnZhTGpThQxmg9kA/?tags=%5B%22Autumn%22%5D -->
+            <defs>
+              <linearGradient id="gradient" x1="0.000" y1="0.500" x2="1.000" y2="0.500">
+        <stop offset="0.000" stop-color="rgb(42, 0, 27)" /><stop offset="0.167" stop-color="rgb(120, 19, 12)" /><stop offset="0.333" stop-color="rgb(206, 72, 14)" /><stop offset="0.500" stop-color="rgb(255, 141, 34)" /><stop offset="0.667" stop-color="rgb(255, 213, 67)" /><stop offset="0.833" stop-color="rgb(255, 255, 105)" /><stop offset="1.000" stop-color="rgb(255, 255, 141)" />
+              </linearGradient>
+            </defs>
+            <rect x="0" y="0" width="800" height="400" fill="url(#gradient)" />
+          </svg>
+        
