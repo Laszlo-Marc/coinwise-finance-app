@@ -41,14 +41,38 @@ FastAPI (Python)
 ```
 ## 🖼️ App Images
 
-## Home Page
-![Home Page](./in-app-images/home.jpeg)    ![Home Page](./in-app-images/home2.jpeg)    ![Home Page](./in-app-images/home3.jpeg)
+### 🏠 Home Page
+<p align="center">
+  <img src="./in-app-images/home.jpeg" width="30%" />
+  <img src="./in-app-images/home2.jpeg" width="30%" />
+  <img src="./in-app-images/home3.jpeg" width="30%" />
+</p>
 
-## Transactions Page
-![Home Page](./in-app-images/transactions-history.jpeg)    ![Home Page](./in-app-images/transaction.jpeg)    ![Home Page](./in-app-images/transactions.jpeg)
+---
 
-## Budgets Page
-![Home Page](./in-app-images/budgets.jpeg)    ![Home Page](./in-app-images/edit-budget.jpeg)    ![Home Page](./in-app-images/create-budget.jpeg)
+### 💳 Transactions Page
+<p align="center">
+  <img src="./in-app-images/transactions-history.jpeg" width="30%" />
+  <img src="./in-app-images/transaction.jpeg" width="30%" />
+  <img src="./in-app-images/transactions.jpeg" width="30%" />
+</p>
 
-## Goals Page
-![Home Page](./in-app-images/goals.jpeg)    ![Home Page](./in-app-images/goal.jpeg)    ![Home Page](./in-app-images/create-goal.jpeg)  ![Home Page](./in-app-images/edit-goal.jpeg)
+---
+
+### 💰 Budgets Page
+<p align="center">
+  <img src="./in-app-images/budgets.jpeg" width="30%" />
+  <img src="./in-app-images/edit-budget.jpeg" width="30%" />
+  <img src="./in-app-images/create-budget.jpeg" width="30%" />
+</p>
+
+---
+
+### 🎯 Goals Page
+<p align="center">
+  <img src="./in-app-images/goals.jpeg" width="23%" />
+  <img src="./in-app-images/goal.jpeg" width="23%" />
+  <img src="./in-app-images/create-goal.jpeg" width="23%" />
+  <img src="./in-app-images/edit-goal.jpeg" width="23%" />
+</p>
+
