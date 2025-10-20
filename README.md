@@ -41,3 +41,7 @@ FastAPI (Python)
 ```
 ## 🖼️ App Images
 
+# Home Page
+![App Dashboard](https://github.com/Laszlo-Marc/coinwise-finance-app/in-app-images/home.png?raw=true)
+
+
