@@ -42,8 +42,8 @@ FastAPI (Python)
 ## 🖼️ App Images
 
 # Home Page
-![Home Page](./in-app-images/home.png)
-![Home Page](./in-app-images/home2.png)
-![Home Page](./in-app-images/home3.png)
+![Home Page](./in-app-images/home.jpeg)
+![Home Page](./in-app-images/home2.jpeg)
+![Home Page](./in-app-images/home3.jpeg)
 
 
