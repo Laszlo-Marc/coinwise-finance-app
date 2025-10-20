@@ -38,3 +38,6 @@ FastAPI (Python)
  │     1) clean input  2) extract  3) categorize  4) validate JSON schema
  ├─ CRUD endpoints for budgets/goals/transactions
  └─ Supabase client + Postgres persistence
+```
+## 🖼️ App Images
+
