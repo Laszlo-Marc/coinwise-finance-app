@@ -41,9 +41,14 @@ FastAPI (Python)
 ```
 ## 🖼️ App Images
 
-# Home Page
-![Home Page](./in-app-images/home.jpeg)
-![Home Page](./in-app-images/home2.jpeg)
-![Home Page](./in-app-images/home3.jpeg)
+## Home Page
+![Home Page](./in-app-images/home.jpeg)    ![Home Page](./in-app-images/home2.jpeg)    ![Home Page](./in-app-images/home3.jpeg)
 
+## Transactions Page
+![Home Page](./in-app-images/transactions-history.jpeg)    ![Home Page](./in-app-images/transaction.jpeg)    ![Home Page](./in-app-images/transactions.jpeg)
 
+## Budgets Page
+![Home Page](./in-app-images/budgets.jpeg)    ![Home Page](./in-app-images/edit-budget.jpeg)    ![Home Page](./in-app-images/create-budget.jpeg)
+
+## Goals Page
+![Home Page](./in-app-images/goals.jpeg)    ![Home Page](./in-app-images/goal.jpeg)    ![Home Page](./in-app-images/create-goal.jpeg)  ![Home Page](./in-app-images/edit-goal.jpeg)
