@@ -61,9 +61,10 @@ FastAPI (Python)
 
 ### 💰 Budgets Page
 <p align="center">
-  <img src="./in-app-images/budgets.jpeg" width="30%" />
-  <img src="./in-app-images/edit-budget.jpeg" width="30%" />
-  <img src="./in-app-images/create-budget.jpeg" width="30%" />
+  <img src="./in-app-images/budgets.jpeg" width="23%" />
+  <img src="./in-app-images/edit-budget.jpeg" width="23%" />
+  <img src="./in-app-images/create-budget.jpeg" width="23%" />
+ <img src="./in-app-images/budget-details.jpeg" width="23%" />
 </p>
 
 ---
@@ -74,5 +75,13 @@ FastAPI (Python)
   <img src="./in-app-images/goal.jpeg" width="23%" />
   <img src="./in-app-images/create-goal.jpeg" width="23%" />
   <img src="./in-app-images/edit-goal.jpeg" width="23%" />
+</p>
+
+### 📊 Statistics Page
+<p align="center">
+  <img src="./in-app-images/stats1.jpeg" width="23%" />
+  <img src="./in-app-images/stats2.jpeg" width="23%" />
+  <img src="./in-app-images/stats3.jpeg" width="23%" />
+  <img src="./in-app-images/stats4.jpeg" width="23%" />
 </p>
 
